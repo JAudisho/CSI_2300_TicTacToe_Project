@@ -2,7 +2,7 @@ My project is about Tic-Tac-Toe, a game in which two players seek in alternate t
 
 To run my program, simply download the TicTacToe.java file below README.md and open it in Visual Studio Code and press CTRL+F5. The output will show empty 3x3 spaces, where the first row is counted as 1-3, second is 4-6, and third is 7-9. By default, the player is "X" and the computer is "O". Enter 1-9 in the terminal to place your "X" in the empty spaces you desire. When the player or computer places their respective letters in a row, column, or a diagonal; they will be declared the winner and you will be given an option to either play again or end the game.  
 
-[TicTacToe-main.zip](https://github.com/JAudisho/TicTacToe/files/10100860/TicTacToe-main.zip)
+[TicTacToe-main.zip](https://github.com/JAudisho/TicTacToe/files/10100889/TicTacToe-main.zip)
 
 # Tic-Tac-Toe
 
