@@ -2,6 +2,8 @@ My project is about Tic-Tac-Toe, a game in which two players seek in alternate t
 
 To run my program, simply download the TicTacToe.java file below README.md and open it in Visual Studio Code and press CTRL+F5. By default, the player is "X" and the computer is "O". Enter 1-9 in the terminal to place your "X" in the empty space you desire. When the player or computer places their respective letters in a row, column, or a diagonal; they will be declared the winner and you will be given an option to either play again or end the game.  
 
+[TicTacToe-main.zip](https://github.com/JAudisho/TicTacToe/files/10100860/TicTacToe-main.zip)
+
 # Tic-Tac-Toe
 
 1. Tic-Tac-Toe, Julius Audisho
@@ -10,3 +12,4 @@ To run my program, simply download the TicTacToe.java file below README.md and o
 ![image](https://user-images.githubusercontent.com/114157922/202033096-64dde002-5d39-4189-9b18-74d693d29490.png)
 
 4. I plan to finish this project before Thanksgiving break ends and will put a great amount effort in creating a quality game that can serve as a test for people who wish to exercise their strategizing skills as well as people who would like to partake in a casual game of Tic-Tac-Toe 
+
