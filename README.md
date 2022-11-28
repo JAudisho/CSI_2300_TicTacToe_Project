@@ -1,3 +1,7 @@
+My project is about Tic-Tac-Toe, a game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares. 
+
+To run my program, simply download the TicTacToe.java file above and open it in Visual Studio Code and press CTRL+F5. By default, the player is "X" and the computer is "O". Enter 1-9 in the terminal to place your "X" in the empty space you desire. When the player or computer places their respective letters in a row, column, or a diagonal; they will be declared the winner and you will be given an option to either play again or end the game.  
+
 # Tic-Tac-Toe
 
 1. Tic-Tac-Toe, Julius Audisho
