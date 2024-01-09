@@ -7,6 +7,10 @@ Follow the on-screen instructions to input moves and experience the joy of this 
 
 [TicTacToe-main.zip](https://github.com/JAudisho/TicTacToe/files/10100889/TicTacToe-main.zip)
 
+![image](https://user-images.githubusercontent.com/114157922/202033096-64dde002-5d39-4189-9b18-74d693d29490.png)
+
+The image showcases a section of Java code for a Tic-Tac-Toe console application. The code includes elements such as the game board represented by a 2D array, functions for player and computer turns, score tracking, and game outcome declaration. The simplicity and clarity of the code make it suitable for educational purposes and recreational gaming in a Java environment.
+
 Key Features:
 
 Interactive Gameplay: Players take turns making moves by entering numbers (1-9) corresponding to grid positions in the terminal.
@@ -26,6 +30,4 @@ Utilizations:
 Recreational Gaming: Offers a fun and nostalgic gaming experience, allowing players to enjoy the timeless challenge of Tic-Tac-Toe in a Java console application.
 
 Learning Tool: Serves as a beginner-friendly project for those learning Java programming. The code structure is clear, making it accessible for educational purposes.
-
-![image](https://user-images.githubusercontent.com/114157922/202033096-64dde002-5d39-4189-9b18-74d693d29490.png)
 
