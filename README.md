@@ -9,7 +9,7 @@ Follow the on-screen instructions to input moves and experience the joy of this 
 
 ![image](https://user-images.githubusercontent.com/114157922/202033096-64dde002-5d39-4189-9b18-74d693d29490.png)
 
-The image showcases a section of Java code for a Tic-Tac-Toe console application. The code includes elements such as the game board represented by a 2D array, functions for player and computer turns, score tracking, and game outcome declaration. The simplicity and clarity of the code make it suitable for educational purposes and recreational gaming in a Java environment.
+The image above showcases a section of Java code for a Tic-Tac-Toe console application. The code includes elements such as the game board represented by a 2D array, functions for player and computer turns, score tracking, and game outcome declaration. The simplicity and clarity of the code make it suitable for educational purposes and recreational gaming in a Java environment.
 
 Key Features:
 
